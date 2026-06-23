@@ -192,19 +192,3 @@ Une application web interactive intégrant le traitement de données en direct p
 </p>
 
 ---
-
-## 🐍 Animations des Contributions (Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vivien-Pain/Vivien-Pain/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
-## 🎯 Objectifs Actuels
-
-```yaml
-Apprentissage: Architecture des systèmes d'entreprise & Scalabilité Cloud
-Développement: Application SaaS pour Auto-école de A à Z
-Exploration: Pipelines WebSocket avancés & Edge Computing en temps réel
-Localisation: Bourges et Orléans
