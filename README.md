@@ -156,15 +156,6 @@ Une application web interactive intégrant le traitement de données en direct p
 
 ---
 
-## 👨‍💻 Profils de Code
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Premium_Coder-1e40af?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Developer-1e40af?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-</p>
-
----
-
 ## 📊 Statistiques GitHub
 
 <p align="center">
