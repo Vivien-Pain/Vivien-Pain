@@ -1,183 +1,183 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=4c1d95&height=150&section=header&text=Vivien%20Pain&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=1e40af&height=150&section=header&text=Vivien%20Pain&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Web+Development+Student;PHP,+MySQL,+React+Specialist;Building+Enterprise+SaaS+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Full+Stack;Etudiant+en+D%C3%A9veloppement;Sp%C3%A9cialiste+PHP,+MySQL,+React;Cr%C3%A9ation+de+solutions+SaaS" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/BUT%20MMI-Limoges%20University-4c1d95?style=for-the-badge&logo=academia&logoColor=white" alt="Academic" />
-  <img src="https://img.shields.io/badge/Master%20MIAGE-Aspirant-4c1d95?style=for-the-badge&logo=book&logoColor=white" alt="Master" />
-  <img src="https://img.shields.io/badge/Location-Orl%C3%A9ans%2C%20France-4c1d95?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/BUT%20MMI-Universit%C3%A9%20de%20Limoges-1e40af?style=for-the-badge&logo=academia&logoColor=white" alt="Academic" />
+  <img src="https://img.shields.io/badge/Master%20MIAGE-Aspirant-1e40af?style=for-the-badge&logo=book&logoColor=white" alt="Master" />
+  <img src="https://img.shields.io/badge/Localisation-Bourges%20%26%20Orl%C3%A9ans-1e40af?style=for-the-badge&logo=map-marker&logoColor=white" alt="Location" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Vivien-Pain"><img src="https://img.shields.io/badge/Portfolio-View_Work-4c1d95?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/vivien-pain"><img src="https://img.shields.io/badge/LinkedIn-Connect-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:vivienpain@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-4c1d95?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Vivien-Pain"><img src="https://img.shields.io/badge/GitHub-Follow-4c1d95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Vivien-Pain"><img src="https://img.shields.io/badge/Portfolio-Voir_Projets-1e40af?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/vivien-pain"><img src="https://img.shields.io/badge/LinkedIn-Se_Connecter-1e40af?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vivienpain@gmail.com"><img src="https://img.shields.io/badge/Email-Me_Contacter-1e40af?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Vivien-Pain"><img src="https://img.shields.io/badge/GitHub-S'abonner-1e40af?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vivien-Pain&style=flat-square&color=4c1d95&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Vivien-Pain?style=flat-square&color=4c1d95&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Vivien-Pain?style=flat-square&color=4c1d95&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Vivien-Pain&style=flat-square&color=1e40af&label=VUES+DU+PROFIL" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Vivien-Pain?style=flat-square&color=1e40af&label=ABONN%C3%89S" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Vivien-Pain?style=flat-square&color=1e40af&label=FAVORIS" alt="Stars" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 À propos de moi
 
-I am a passionate Full Stack Software Engineer with a rigorous product engineering mindset, currently advancing through my BUT MMI (Multimedia and Internet Professions) program[cite: 2]. My core expertise is anchored in architecting robust, scalable web applications utilizing modern PHP, MySQL, JavaScript, and React ecosystems[cite: 2]. I thrive on solving complex backend challenges while delivering seamless frontend user experiences. I am actively seeking a 1-year web development apprenticeship starting in September 2026 within the Orléans region, aligning with my long-term goal of pursuing a Master MIAGE[cite: 2].
+Passionné par le développement Full Stack avec une forte orientation produit, je suis actuellement en BUT MMI (Métiers du Multimédia et de l'Internet). Mon expertise se concentre sur l'architecture d'applications web robustes et scalables, en utilisant des écosystèmes modernes comme PHP, MySQL, JavaScript et React. J'aime relever des défis complexes en back-end tout en offrant des expériences utilisateur fluides en front-end.
 
-*   **Engineering Focus:** End-to-end full stack development, real-time data synchronization, and enterprise architecture[cite: 2].
-*   **Current Venture:** Developing a comprehensive SaaS platform from the ground up, tailored to optimize operations for driving school professionals[cite: 2].
-*   **Open To:** Backend, Frontend, and Full Stack Engineering roles, particularly those leveraging PHP and React frameworks[cite: 2].
+*   **Ingénierie :** Développement full-stack de bout en bout, synchronisation de données en temps réel et architecture logicielle.
+*   **Projet actuel :** Développement complet d'une plateforme SaaS conçue pour optimiser l'organisation quotidienne des professionnels de l'auto-école.
+*   **Recherche :** Opportunités en développement Back-end, Front-end ou Full Stack, particulièrement autour des environnements PHP et React.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies
 
-### Languages
+### Langages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,php,python,html,css,sql" alt="Languages" />
 </p>
 
-### Frontend
+### Front-end
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,vue,tailwind,sass,threejs" alt="Frontend" />
 </p>
 
-### Backend & Databases
+### Back-end & Bases de données
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,symfony,laravel,mysql" alt="Backend" />
 </p>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps & Outils
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" alt="DevOps" />
 </p>
 
 ---
 
-## 🧠 AI/ML & Advanced Expertise
+## 🧠 Expertise Avancée
 
-| Domain | Proficiency | Details |
+| Domaine | Niveau | Détails |
 | :--- | :--- | :--- |
-| **Algorithmic Logic** | Advanced | Structuring real-time game state engines and dynamic educational tools[cite: 2] |
-| **Data Dynamics** | Intermediate | Managing real-time WebSocket data flow, bi-directional event systems, and synchronization[cite: 2] |
-| **Database Architecture** | Advanced | SQL/MariaDB query optimization, scalable schema design, and relational integrity[cite: 2] |
+| **Logique Algorithmique** | Avancé | Structuration de moteurs d'état en temps réel et d'outils éducatifs dynamiques. |
+| **Dynamique des Données** | Intermédiaire | Gestion des flux de données WebSocket, systèmes d'événements bidirectionnels. |
+| **Architecture Base de Données** | Avancé | Optimisation de requêtes SQL/MariaDB, conception de schémas scalables. |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projets Phares
 
 <details>
-<summary><b>🚘 Driving School SaaS Platform</b></summary>
+<summary><b>🚘 Plateforme SaaS Auto-École</b></summary>
 <br>
-A comprehensive SaaS solution engineered entirely from scratch to streamline organization and student tracking for driving school instructors, maximizing administrative efficiency.[cite: 2]
+Une solution SaaS complète développée de A à Z pour simplifier l'organisation et le suivi des élèves pour les moniteurs d'auto-école, optimisant ainsi leur temps de travail.
 
-| Metric | Details |
+| Métrique | Détails |
 | :--- | :--- |
-| **Stack** | PHP, React, MySQL, JavaScript[cite: 2] |
-| **Scale** | Multi-tenant operational architecture for industry professionals[cite: 2] |
-| **Performance** | Optimized relational query resolution for high-speed schedule loading |
-| **Security** | Secure role-based authentication and isolated user data handling |
-| **Impact** | Engineered to provide significant daily time savings for driving instructors[cite: 2] |
+| **Stack** | PHP, React, MySQL, JavaScript |
+| **Échelle** | Architecture multi-locataires pour les professionnels du secteur. |
+| **Performance** | Résolution de requêtes relationnelles optimisée pour des chargements rapides. |
+| **Sécurité** | Authentification sécurisée et isolation des données utilisateurs. |
+| **Impact** | Conçu pour offrir un gain de temps quotidien significatif aux instructeurs. |
 
-[**View Repository ↗**](https://github.com/Vivien-Pain)
+[**Voir le Dépôt ↗**](https://github.com/Vivien-Pain)
 </details>
 
 <details>
-<summary><b>🌐 Enterprise Social Network Core</b></summary>
+<summary><b>🌐 Réseau Social d'Entreprise</b></summary>
 <br>
-A robust social networking engine featuring comprehensive interaction paradigms including posts, private content, and network mapping.[cite: 2]
+Un moteur de réseau social robuste intégrant des interactions complètes : publications, contenus privés, abonnements et blocages.
 
-| Metric | Details |
+| Métrique | Détails |
 | :--- | :--- |
-| **Stack** | Node.js, Express, JavaScript, Database Engine[cite: 2] |
-| **Scale** | Handles dynamic user feeds, subscriptions, and profile states[cite: 2] |
-| **Performance** | Efficient state management for likes, reposts, and comment rendering[cite: 2] |
-| **Security** | Implemented blocking layers and private post visibility controls[cite: 2] |
-| **Impact** | Demonstrates advanced CRUD capabilities and complex data relationship management[cite: 2] |
+| **Stack** | Node.js, Express, JavaScript, Base de données |
+| **Échelle** | Gestion dynamique des flux utilisateurs, des profils et des abonnements. |
+| **Performance** | Gestion d'état efficace pour les likes, partages et commentaires. |
+| **Sécurité** | Implémentation de couches de blocage et contrôles de visibilité privés. |
+| **Impact** | Démontre des capacités CRUD avancées et une gestion complexe des relations. |
 
-[**View Repository ↗**](https://github.com/Vivien-Pain)
+[**Voir le Dépôt ↗**](https://github.com/Vivien-Pain)
 </details>
 
 <details>
-<summary><b>🏆 Real-Time WebSocket Leaderboard</b></summary>
+<summary><b>🏆 Classement WebSocket en Temps Réel</b></summary>
 <br>
-An interactive web application integrating live data processing for real-time competitive rankings.[cite: 2]
+Une application web interactive intégrant le traitement de données en direct pour des classements compétitifs en temps réel.
 
-| Metric | Details |
+| Métrique | Détails |
 | :--- | :--- |
-| **Stack** | JavaScript, WebSockets, Node.js[cite: 2] |
-| **Scale** | Concurrent live connections for dynamic state changes[cite: 2] |
-| **Performance** | Sub-second latency data distribution via socket event loops[cite: 2] |
-| **Security** | Validated socket handshake and secure data payload transmission |
-| **Impact** | Showcases high-proficiency in bidirectional real-time communication protocols[cite: 2] |
+| **Stack** | JavaScript, WebSockets, Node.js |
+| **Échelle** | Connexions simultanées en direct pour des changements d'état dynamiques. |
+| **Performance** | Distribution de données à très faible latence via des boucles d'événements. |
+| **Sécurité** | Validation de connexion socket et transmission sécurisée des données. |
+| **Impact** | Met en évidence une grande maîtrise des protocoles de communication bidirectionnels. |
 
-[**View Repository ↗**](https://github.com/Vivien-Pain)
+[**Voir le Dépôt ↗**](https://github.com/Vivien-Pain)
 </details>
 
 ---
 
-## 💼 Experience
+## 💼 Expérience
 
-**Web Developer Intern** | *Boreal Business*
-*April 2025 – July 2025 & April 2026 – May 2026*[cite: 2]
-- Architected and enhanced robust front-end and back-end applications across two intensive software engineering cycles totaling 20 weeks[cite: 2].
-- Executed critical bug resolutions and implemented significant performance optimizations across the application layer[cite: 2].
-- Managed enterprise codebases utilizing Git version control, adhering to strict branch and merge protocols[cite: 2].
-- `PHP` `JavaScript` `Git` `Performance Optimization` `Bug Tracking`[cite: 2]
+**Stagiaire Développeur Web** | *Boreal Business*
+*Avril - Juillet 2025 & Avril - Mai 2026*
+- Architecture et amélioration d'applications front-end et back-end sur deux cycles intensifs totalisant 20 semaines.
+- Résolution de bugs critiques et mise en place d'optimisations significatives des performances.
+- Gestion du code source via Git, en respectant des protocoles stricts de fusion et de branches.
+- `PHP` `JavaScript` `Git` `Optimisation de performance`
 
 ---
 
-## 🏆 Achievements
+## 🏆 Réalisations
 
-| Recognition | Details |
+| Reconnaissance | Détails |
 | :---: | :--- |
-| **Digital Cleanup Day Project** | Designed and engineered an interactive educational game utilizing P5.play focused on digital footprint awareness[cite: 2]. |
-| **Hermès-Inspired E-commerce** | Successfully developed and deployed a premium e-commerce platform complete with a secure checkout funnel[cite: 2]. |
-| **Agile Motion Design Integration** | Orchestrated visual assets and motion design via After Effects while adhering to Agile Scrum methodologies[cite: 2]. |
+| **Digital Cleanup Day** | Conception et développement d'un jeu éducatif interactif avec P5.play sur l'empreinte numérique. |
+| **E-commerce (Inspiré Hermès)** | Développement et déploiement réussis d'un site marchand premium avec un tunnel d'achat sécurisé. |
+| **Intégration Agile & Motion Design** | Création d'assets visuels et d'animations sous After Effects en respectant la méthode Agile Scrum. |
 
 ---
 
-## 📜 Certifications & Education
+## 📜 Certifications & Formations
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BUT%20MMI-Limoges%20University-4c1d95?style=for-the-badge&logo=academia" alt="Degree" />
-  <img src="https://img.shields.io/badge/Bac%20STI2D-Mention%20Assez%20Bien-4c1d95?style=for-the-badge" alt="Bac" />
-  <img src="https://img.shields.io/badge/Agile%20Scrum-Project%20Management-4c1d95?style=for-the-badge" alt="Agile" />
+  <img src="https://img.shields.io/badge/BUT%20MMI-Limoges-1e40af?style=for-the-badge&logo=academia" alt="Degree" />
+  <img src="https://img.shields.io/badge/Bac%20STI2D-Mention%20Assez%20Bien-1e40af?style=for-the-badge" alt="Bac" />
+  <img src="https://img.shields.io/badge/Agile%20Scrum-Gestion%20de%20Projet-1e40af?style=for-the-badge" alt="Agile" />
 </p>
 
 ---
 
-## 👨‍💻 Coding Profiles
+## 👨‍💻 Profils de Code
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Premium_Coder-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Developer-4c1d95?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Premium_Coder-1e40af?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Developer-1e40af?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivien-Pain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivien-Pain&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivien-Pain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivien-Pain&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" width="48%" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivien-Pain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivien-Pain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophées GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vivien-Pain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
@@ -185,15 +185,15 @@ An interactive web application integrating live data processing for real-time co
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Activité de Contribution
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivien-Pain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivien-Pain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3b82f6&line=3b82f6&point=ffffff" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Animations des Contributions (Snake)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vivien-Pain/Vivien-Pain/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
@@ -201,10 +201,10 @@ An interactive web application integrating live data processing for real-time co
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Objectifs Actuels
 
 ```yaml
-Learning: Enterprise Systems Architecture & Cloud Scalability
-Building: Driving School SaaS Application from Scratch
-Exploring: Advanced WebSocket Pipelines & Real-time Edge Computing
-Open To: 1-Year Web Development Apprenticeship in Orléans (Sept 2026)
+Apprentissage: Architecture des systèmes d'entreprise & Scalabilité Cloud
+Développement: Application SaaS pour Auto-école de A à Z
+Exploration: Pipelines WebSocket avancés & Edge Computing en temps réel
+Localisation: Bourges et Orléans
